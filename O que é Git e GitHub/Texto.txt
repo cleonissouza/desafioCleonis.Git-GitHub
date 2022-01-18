@@ -1,0 +1,8 @@
+O que é Git:
+Criado pelo engenheiro de software Linus Torvalds, 
+conhecido por ter desenvolvido, também, o núcleo Linux, 
+o GIT é um Sistema de Controle de Versões Distribuído.
+
+O que é GitHub:
+O GitHub, tão famoso entre a comunidade de programadores de todo o mundo,
+é uma espécie de rede social voltada a profissionais de TI cuja tecnologia que o sustenta é o GIT.
